@@ -1,0 +1,18 @@
+
+body{
+background-color: rgb(158, 209, 192);
+}
+
+.Heading{
+
+font-size: 30px;
+text-align: center;
+}
+
+.Clock{
+margin-top: 0px;
+margin-bottom: 0px;
+text-align:center;
+font-size: 50px;
+right: 90%;
+}
